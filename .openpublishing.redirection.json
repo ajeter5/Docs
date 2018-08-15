@@ -454,6 +454,11 @@
         "source_path": "aspnetcore/fundamentals/configuration/platform-specific-configuration.md",
         "redirect_url": "/aspnet/core/fundamentals/host/platform-specific-configuration",
         "redirect_document_id": false
+    },
+    {
+        "source_path": "aspnet/mvc/overview/getting-started/introduction/sample/code-location.md",
+        "redirect_url": "/aspnet/mvc/overview/getting-started/introduction/index",
+        "redirect_document_id": false
     }
   ] 
 }
